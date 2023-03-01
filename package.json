@@ -1,0 +1,22 @@
+{
+  "name": "dream_javascript",
+  "version": "1.0.0",
+  "description": "study to javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://yjm9425@github.com/yjm9425/dream_javascript.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yjm9425/dream_javascript/issues"
+  },
+  "homepage": "https://github.com/yjm9425/dream_javascript#readme"
+}
