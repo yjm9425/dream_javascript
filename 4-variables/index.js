@@ -14,5 +14,11 @@ Heap: 객체
 
 
 변수: let(변경가능), const(변경불가)로 할당할 수 있음, 각 변수들은 각각 특정 메모리 주소를 가르키고 있음 
-
 */
+
+// 변수선언
+let a = 0;
+console.log(a);
+
+let b;
+console.log(b);
